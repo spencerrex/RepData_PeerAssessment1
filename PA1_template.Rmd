@@ -7,19 +7,66 @@ output:
 
 
 ## Loading and preprocessing the data
-
+Load and process/transform
+```{r}
+```
 
 
 ## What is mean total number of steps taken per day?
+Total Number Per Day
+```{r}
+```
 
+Histogram
+```{r}
+```
 
+Mean/Median Per Day
+```{r}
+```
 
 ## What is the average daily activity pattern?
+Avg Steps Taken every 5 minutes over time
+```{r}
+```
 
-
+5-Minute Interval with most steps
+```{r}
+```
 
 ## Imputing missing values
+Total Missing Values
+```{r}
+```
 
+Strategy to impute values
+-
+-
 
+Dataset with Imputed Values
+```{r}
+```
+
+Histogram total number of steps per day
+```{r}
+```
+
+Mean/median number of steps per day
+```{r}
+```
+
+Do these values differ from the estimates from the first part of the assignment?
+-
+
+What is the impact of imputing missing data on the estimates of the total daily number of steps?
+-
+-
 
 ## Are there differences in activity patterns between weekdays and weekends?
+Add day type (weekend or weekday) to dataset
+```{r}
+```
+
+Avg number of steps taken in 5-minute intervals over time, by day type (see README for example)
+```{r}
+```
